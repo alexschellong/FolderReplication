@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZMu1oyZd6qM2mKFUf5YBXOPCw23eyGmJGjvtGXVYzR0=",
+  "Source": "FolderReplication",
+  "BasePath": "_content/FolderReplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
