@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using System.Security.Cryptography;
 using System.Threading;
-using Microsoft.Extensions.Diagnostics.HealthChecks;
 
 /// <summary>
 /// Iterative implementation of a folder replication algorithm
