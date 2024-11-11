@@ -1,5 +1,5 @@
 
-Interview task
+Technical interview task
 
 Iterative implementation of a folder replication algorithm, which uses a stack to hold tuples of directory paths and a bool to check if the to-be copied directory is newly created in the replica folder in order to avoid the file/folder deletion steps. 
 
